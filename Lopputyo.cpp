@@ -1,5 +1,5 @@
 // Jesperi Kulo
-// Lopputyo
+// Harjoitustyo
 
 #include <iostream>
 #include <vector>
