@@ -1,5 +1,4 @@
 # Lopputyo
-Jesperi Kulo
 
 Eskon hotellin varausjärjestelmä
 Toiminnot:
