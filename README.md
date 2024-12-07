@@ -1,4 +1,4 @@
-# Lopputyo
+# Harjoitustyo
 
 Eskon hotellin varausjärjestelmä
 Toiminnot:
